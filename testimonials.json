@@ -1,0 +1,36 @@
+{
+   "testimonials": [
+      {
+         "id": 1,
+         "name": "Roberto J. Brewster",
+         "job_title": "product designer",
+         "image_url": "https://res.cloudinary.com/femiconnect/image/upload/v1633438290/testimonial-slider/pic4_ryutss.jpg",
+         "testimonial_info": " Aenean dignissim efficitur leo, vel lobortis velit cursus sed. Cras turpis neque, rutrum id tellus ut, condimentum fringilla purus.",
+         "rating": 4.7
+      },
+      {
+         "id": 2,
+         "name": "Patricia A. Taylor",
+         "job_title": "Public health social worker",
+         "image_url": "https://res.cloudinary.com/femiconnect/image/upload/v1633438290/testimonial-slider/pic2_qv6mkv.jpg",
+         "testimonial_info": "Duis nulla mauris, consequat vitae venenatis et, molestie nec risus. Sed rutrum dapibus mi sed ultricies. In semper sagittis nibh vitae venenatis.",
+         "rating": 4.2
+      },
+      {
+         "id": 3,
+         "name": "Robert E. Schwartz",
+         "job_title": "Brokerage sales assistant",
+         "image_url": "https://res.cloudinary.com/femiconnect/image/upload/v1633438290/testimonial-slider/pic3_barunb.jpg",
+         "testimonial_info": "Maecenas malesuada metus elit, at auctor diam varius ut. Mauris semper ex at posuere blandit. Integer vitae nisi sollicitudin.",
+         "rating": 3.5
+      },
+      {
+         "id": 4,
+         "name": "Irene B. Whipple",
+         "job_title": "Human resources consultant",
+         "image_url": "https://res.cloudinary.com/femiconnect/image/upload/v1633438289/testimonial-slider/pic1_lilbty.jpg",
+         "testimonial_info": "Nam consequat metus sit amet magna tempus, eget euismod elit dictum. Maecenas metus dolor, volutpat sed leo commodo, condimentum accumsan orci.",
+         "rating": 3
+      }
+   ]
+}
