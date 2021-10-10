@@ -5,9 +5,12 @@ const app = express();
 
 const port = process.env.PORT || 5000;
 
+// to serve the css as static
+app.use(express.static(__dirname));
+
 app.get('/', (req, res) => {
    res.set('Access-Control-Allow-Origin', '*');
-   res.send('<h1>Femiconnect says hi...</h1>');
+   res.sendFile(__dirname + '/index.html');
 });
 
 app.get('/testimonials', (req, res) => {
